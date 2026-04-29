@@ -1,6 +1,6 @@
 # 🟣 Hola, soy Six
 
-### 💻 Estudiante de programación | C++ & Python 
+### 💻 Estudiante de programación | C++ & Python
 
 ---
 
@@ -9,7 +9,7 @@
 - 🎓 Estudiante enfocado en C++ y Python  
 - 🧠 Interesado en estructuras de datos, algoritmos y automatización  
 - 🔨 Construyendo proyectos reales para mejorar habilidades  
-- 🚀 Actualmente aprendiendo desarrollo de software práctico  
+- 🚀 Aprendiendo desarrollo de software práctico  
 
 ---
 
@@ -26,13 +26,8 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="45"/>
-  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
-  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="45"/>
-  <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="45"/>
 </p>
 
@@ -60,31 +55,15 @@
 
 ---
 
-## 🎧 Ahora escuchando
+## 🎧 Música
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=Six&count=5"/>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31zcrhdpsldv4dj4ojnqhmbiwntq&count=5"/>
 </p>
 
 ---
 
-## 🧩 Zona Cyber
-
-<p align="center">
-  <img src="https://media.tenor.com/YTxVhGnhFeIAAAAM/super-faputa.gif" height="150"/>
-</p>
-
----
-
-## 🐍 Snake Matrix
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sixb0ns/Sixb0ns/output/snake.svg"/>
-</p>
-
----
-
-## ⚡ Terminal vibe
+## ⚡ Terminal
 
 ```bash
 > booting profile...
