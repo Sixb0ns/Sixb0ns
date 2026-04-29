@@ -2,6 +2,10 @@
 
 ### 💻 Estudiante de programación | C++ & Python
 
+<p align="center">
+  <img src="https://media.giphy.com/media/fgWOievb1glpZwwdIi/giphy.gif" width="320"/>
+</p>
+
 ---
 
 ## 🧠 Sobre mí
@@ -56,9 +60,6 @@
   </a>
   <a href="https://discord.gg/vJvbycPG">
     <img src="https://img.shields.io/badge/Discord-00FFFF?style=for-the-badge&logo=discord&logoColor=black"/>
-  </a>
-  <a href="mailto:wisconqueso@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF2E63?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
