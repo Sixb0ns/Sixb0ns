@@ -74,6 +74,4 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight"/>
-
-<img src="https://raw.githubusercontent.com/Sixb0ns/Sixb0ns/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/Sixb0ns/Sixb0ns/output/snake.svg" alt="Snake animation" />
