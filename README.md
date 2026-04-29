@@ -71,11 +71,3 @@
 </p>
 
 ---
-
-## ⚡ Terminal
-
-```bash
-> booting profile...
-> loading skills: C++, Python
-> status: grinding algorithms...
-> system: online
