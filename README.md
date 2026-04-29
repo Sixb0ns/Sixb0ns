@@ -2,8 +2,8 @@
 
 ### 💻 Estudiante de programación | C++ & Python
 
-<p align="center">
-  <img src="https://media.giphy.com/media/fgWOievb1glpZwwdIi/giphy.gif" width="320"/>
+<p align="left">
+  <img src="[https://media.giphy.com/media/fgWOievb1glpZwwdIi/giphy.gif](https://www.icegif.com/gif/cyberpunk-edgerunners/)" width="320"/>
 </p>
 
 ---
