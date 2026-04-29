@@ -3,7 +3,7 @@
 ### 💻 Estudiante de programación | C++ & Python
 
 <p align="left">
-  <img src="https://media.giphy.com/media/fgWOievb1glpZwwdIi/giphy.gif" width="320"/>
+  <img src="https://www.icegif.com/wp-content/uploads/cyberpunk-edgerunners.gif" width="320"/>
 </p>
 
 ---
