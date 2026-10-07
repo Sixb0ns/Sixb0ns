@@ -1,4 +1,4 @@
-# 🟣 Hola, soy Six
+# 🟣 Hola
 
 ### 💻 Estudiante de programación | C++ & Python
 ---
